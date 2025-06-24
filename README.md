@@ -36,6 +36,10 @@ javac *.java
 java Main
 ```
 
+* Compile documentation - Documentation is included in the doc folder however if you must recompile use this command:
+```
+javadoc -d docs -author -version *.java
+```
 
 ## Authors
 
